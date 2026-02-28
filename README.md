@@ -22,7 +22,7 @@ The enemy movement policy is trained using Deep Q-learning (DQN).
 - `rl_env.py` – RL environment for training the enemy.
 - `dqn_agent.py` – DQN implementation and training loop (PyTorch).
 - `play_with_ai.py` – Human vs trained AI mode (hybrid control).
-- `report_draft.txt` – Project report.
+- `A1_Report.docx` – Project report.
 
 ## How to run
 
